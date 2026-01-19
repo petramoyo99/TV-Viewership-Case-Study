@@ -1,0 +1,351 @@
+PROVINCE,AGE_GROUP,GENDER,RACE,TOTAL_SESSIONS,UNIQUE_USERS,CONSUMPTION_RANK
+Northern Cape,18-24,male,indian_asian,1,1,1
+North West,25-34,female,indian_asian,1,1,1
+Kwazulu Natal,25-34,female,None,1,1,1
+Eastern Cape,45-54,male,,1,1,1
+Limpopo,35-44,female,indian_asian,1,1,1
+Kwazulu Natal,45-54,male,None,1,1,1
+Northern Cape,35-44,female,coloured,1,1,1
+Western Cape,25-34,female,other,1,1,1
+Free State,35-44,female,None,1,1,1
+Free State,45-54,male,indian_asian,1,1,1
+North West,18-24,female,white,1,1,1
+Eastern Cape,45-54,female,indian_asian,1,1,1
+Limpopo,35-44,female,white,1,1,1
+Western Cape,18-24,female,indian_asian,1,1,1
+Limpopo,18-24,female,white,1,1,1
+Northern Cape,25-34,female,coloured,1,1,1
+North West,18-24,female,indian_asian,1,1,1
+Northern Cape,55+,female,white,1,1,1
+None,18-24,male,None,1,1,1
+Free State,55+,female,None,1,1,1
+Mpumalanga,55+,female,black,1,1,1
+Limpopo,55+,male,indian_asian,1,1,1
+Free State,35-44,female,white,1,1,1
+Eastern Cape,55+,female,black,1,1,1
+Western Cape,25-34,male,,1,1,1
+Eastern Cape,35-44,female,None,1,1,1
+Limpopo,55+,female,black,1,1,1
+Free State,18-24,female,coloured,1,1,1
+Kwazulu Natal,45-54,female,white,1,1,1
+North West,45-54,male,None,1,1,1
+Gauteng,45-54,female,None,1,1,1
+Western Cape,18-24,female,other,1,1,1
+Mpumalanga,25-34,female,None,1,1,1
+Gauteng,55+,male,other,1,1,1
+Northern Cape,35-44,male,indian_asian,1,1,1
+North West,35-44,female,None,1,1,1
+Limpopo,45-54,male,None,1,1,1
+Eastern Cape,35-44,female,coloured,1,1,1
+Mpumalanga,45-54,male,indian_asian,1,1,1
+Limpopo,55+,male,None,1,1,1
+Kwazulu Natal,35-44,female,None,1,1,1
+Gauteng,55+,female,white,1,1,1
+Northern Cape,55+,female,coloured,1,1,1
+Northern Cape,45-54,male,None,1,1,1
+Gauteng,55+,female,None,1,1,1
+Northern Cape,18-24,female,white,1,1,1
+Northern Cape,35-44,male,white,1,1,1
+Kwazulu Natal,45-54,female,black,1,1,1
+Gauteng,18-24,male,other,1,1,1
+North West,35-44,female,black,2,1,50
+Kwazulu Natal,55+,male,indian_asian,2,2,50
+Limpopo,35-44,female,other,2,1,50
+Limpopo,18-24,male,other,2,2,50
+Limpopo,45-54,male,white,2,2,50
+Kwazulu Natal,55+,male,None,2,2,50
+Limpopo,45-54,female,black,2,1,50
+Western Cape,18-24,female,white,2,2,50
+Kwazulu Natal,45-54,female,None,2,2,50
+Kwazulu Natal,45-54,female,indian_asian,2,2,50
+Free State,18-24,female,white,2,1,50
+Northern Cape,35-44,female,None,2,1,50
+North West,55+,male,None,2,2,50
+Kwazulu Natal,25-34,female,white,2,2,50
+North West,55+,male,white,2,2,50
+Mpumalanga,55+,male,black,2,1,50
+Eastern Cape,55+,female,None,2,1,50
+Free State,45-54,female,black,2,2,50
+Mpumalanga,18-24,female,coloured,2,1,50
+Free State,25-34,male,other,2,1,50
+Northern Cape,25-34,male,None,2,1,50
+North West,45-54,female,black,2,2,50
+Limpopo,55+,male,white,2,1,50
+Eastern Cape,35-44,male,,2,2,50
+North West,35-44,male,coloured,2,2,50
+North West,35-44,male,indian_asian,2,2,50
+Gauteng,45-54,male,other,2,2,50
+Kwazulu Natal,25-34,male,,2,2,50
+Western Cape,45-54,female,indian_asian,2,1,50
+Limpopo,45-54,female,white,2,2,50
+Limpopo,25-34,female,indian_asian,2,1,50
+Limpopo,45-54,male,coloured,2,1,50
+Mpumalanga,35-44,female,coloured,2,1,50
+Gauteng,18-24,female,None,2,2,50
+Western Cape,45-54,female,white,2,2,50
+Kwazulu Natal,18-24,female,coloured,2,2,50
+Eastern Cape,35-44,female,,2,1,50
+Eastern Cape,25-34,male,other,2,1,50
+Northern Cape,18-24,female,coloured,2,2,50
+Northern Cape,25-34,male,indian_asian,2,2,50
+Eastern Cape,25-34,female,white,2,1,50
+Gauteng,35-44,male,,2,1,50
+Mpumalanga,35-44,female,None,2,2,50
+Mpumalanga,25-34,female,indian_asian,2,2,50
+Kwazulu Natal,45-54,male,coloured,2,2,50
+Eastern Cape,18-24,female,indian_asian,2,1,50
+North West,25-34,female,white,2,2,50
+North West,35-44,male,None,2,2,50
+Limpopo,35-44,female,None,2,1,50
+Western Cape,25-34,female,None,3,2,99
+Northern Cape,55+,male,white,3,2,99
+None,35-44,None,None,3,1,99
+Northern Cape,55+,female,black,3,1,99
+Eastern Cape,55+,male,white,3,3,99
+Kwazulu Natal,35-44,female,indian_asian,3,1,99
+Limpopo,18-24,female,other,3,1,99
+Mpumalanga,45-54,female,indian_asian,3,2,99
+Eastern Cape,35-44,female,white,3,2,99
+Kwazulu Natal,35-44,female,white,3,3,99
+Mpumalanga,45-54,male,coloured,3,2,99
+Western Cape,18-24,female,None,3,1,99
+Western Cape,55+,male,None,3,3,99
+Western Cape,55+,female,white,3,1,99
+Kwazulu Natal,25-34,female,coloured,3,2,99
+Kwazulu Natal,35-44,female,coloured,3,1,99
+Kwazulu Natal,55+,male,coloured,3,1,99
+Gauteng,35-44,female,coloured,3,2,99
+Western Cape,55+,male,black,3,1,99
+Mpumalanga,25-34,female,coloured,3,2,99
+Gauteng,35-44,female,indian_asian,4,2,119
+North West,18-24,male,white,4,4,119
+Northern Cape,18-24,male,black,4,2,119
+Free State,25-34,male,coloured,4,2,119
+North West,18-24,male,indian_asian,4,3,119
+Gauteng,45-54,female,indian_asian,4,3,119
+Mpumalanga,18-24,male,coloured,4,3,119
+North West,25-34,male,indian_asian,4,4,119
+Eastern Cape,18-24,female,white,4,1,119
+Free State,25-34,female,None,4,3,119
+North West,45-54,male,indian_asian,4,2,119
+Free State,35-44,male,None,4,2,119
+Free State,45-54,male,None,4,2,119
+Eastern Cape,35-44,male,None,4,2,119
+Western Cape,18-24,female,coloured,4,3,119
+Limpopo,35-44,male,None,5,4,134
+Free State,35-44,male,indian_asian,5,3,134
+Eastern Cape,35-44,female,black,5,5,134
+Western Cape,35-44,female,white,5,4,134
+Free State,18-24,female,black,5,3,134
+Western Cape,45-54,female,None,5,3,134
+Free State,35-44,male,coloured,5,4,134
+Gauteng,18-24,female,coloured,5,5,134
+Limpopo,18-24,male,None,5,3,134
+Free State,18-24,male,None,5,2,134
+Mpumalanga,45-54,female,black,5,3,134
+Western Cape,18-24,female,black,5,1,134
+Western Cape,18-24,male,other,5,2,134
+Limpopo,18-24,male,coloured,6,1,147
+North West,45-54,male,white,6,5,147
+Limpopo,55+,male,black,6,2,147
+Gauteng,45-54,female,white,6,5,147
+Free State,45-54,male,coloured,6,3,147
+Eastern Cape,18-24,female,None,6,1,147
+North West,55+,male,black,6,2,147
+North West,18-24,female,black,6,3,147
+Western Cape,35-44,female,indian_asian,6,2,147
+Free State,25-34,female,white,6,4,147
+Eastern Cape,18-24,male,None,6,2,147
+Limpopo,35-44,female,black,6,4,147
+Eastern Cape,55+,male,coloured,6,2,147
+Mpumalanga,55+,male,None,6,1,147
+Northern Cape,18-24,male,white,6,4,147
+Northern Cape,25-34,male,white,6,5,147
+Gauteng,25-34,male,other,6,3,147
+Eastern Cape,45-54,male,None,6,4,147
+Mpumalanga,25-34,male,coloured,6,2,147
+Gauteng,35-44,female,None,7,5,166
+Free State,35-44,female,black,7,5,166
+North West,25-34,male,None,7,2,166
+Mpumalanga,35-44,male,coloured,7,3,166
+Eastern Cape,45-54,female,white,7,2,166
+Free State,35-44,male,white,8,5,171
+Gauteng,18-24,female,white,8,1,171
+Kwazulu Natal,18-24,male,coloured,8,5,171
+Free State,25-34,male,None,8,6,171
+Kwazulu Natal,18-24,female,black,8,4,171
+Gauteng,45-54,female,black,8,3,171
+Northern Cape,25-34,female,black,8,4,171
+Gauteng,55+,female,black,8,4,171
+Free State,25-34,female,black,8,5,171
+Limpopo,45-54,male,black,8,4,171
+North West,35-44,male,white,8,5,171
+Kwazulu Natal,25-34,male,other,8,4,171
+Western Cape,35-44,female,None,8,2,171
+Gauteng,55+,male,indian_asian,9,6,184
+Eastern Cape,45-54,male,white,9,5,184
+Eastern Cape,18-24,male,other,9,2,184
+Eastern Cape,25-34,female,black,9,5,184
+Limpopo,18-24,male,white,9,7,184
+Northern Cape,35-44,male,None,9,2,184
+Eastern Cape,45-54,male,coloured,9,6,184
+Western Cape,25-34,female,white,9,5,184
+Free State,18-24,male,indian_asian,9,4,184
+Free State,18-24,male,white,10,6,193
+Kwazulu Natal,18-24,male,white,10,9,193
+Limpopo,35-44,male,white,10,6,193
+Gauteng,25-34,female,coloured,10,6,193
+Limpopo,25-34,male,white,11,8,197
+Gauteng,18-24,female,indian_asian,11,3,197
+Mpumalanga,18-24,male,indian_asian,11,5,197
+Kwazulu Natal,35-44,male,coloured,11,5,197
+Western Cape,45-54,female,coloured,11,4,197
+Eastern Cape,55+,male,black,11,4,197
+Eastern Cape,45-54,female,black,11,3,197
+Western Cape,45-54,male,indian_asian,12,4,204
+Western Cape,55+,male,white,12,6,204
+North West,25-34,female,black,12,7,204
+Kwazulu Natal,45-54,male,white,12,7,204
+Gauteng,45-54,male,coloured,12,7,204
+Gauteng,35-44,male,other,12,5,204
+Eastern Cape,35-44,male,indian_asian,12,7,204
+Western Cape,18-24,male,indian_asian,12,4,204
+Northern Cape,18-24,male,coloured,12,5,204
+Free State,45-54,male,black,13,7,213
+Kwazulu Natal,18-24,female,indian_asian,13,4,213
+Western Cape,45-54,male,other,13,4,213
+Free State,18-24,male,coloured,13,2,213
+Kwazulu Natal,55+,male,white,13,5,213
+Free State,25-34,male,white,13,12,213
+Western Cape,35-44,female,black,13,5,213
+Northern Cape,55+,male,coloured,13,1,213
+Free State,25-34,male,indian_asian,13,7,213
+Mpumalanga,45-54,male,white,13,9,213
+Limpopo,25-34,female,black,14,11,223
+Western Cape,25-34,female,black,14,8,223
+Western Cape,25-34,male,indian_asian,14,11,223
+Gauteng,25-34,female,indian_asian,14,10,223
+Limpopo,45-54,male,indian_asian,14,7,223
+Western Cape,35-44,male,other,15,5,228
+Limpopo,18-24,female,black,15,5,228
+Mpumalanga,35-44,female,black,15,7,228
+Eastern Cape,25-34,female,coloured,15,4,228
+Western Cape,35-44,male,indian_asian,15,10,228
+Eastern Cape,25-34,male,None,15,5,228
+Free State,35-44,male,black,15,10,228
+Limpopo,25-34,male,None,16,6,235
+Kwazulu Natal,25-34,male,None,16,9,235
+Mpumalanga,18-24,male,None,17,3,237
+Mpumalanga,45-54,male,None,17,4,237
+Western Cape,25-34,male,other,17,5,237
+Free State,45-54,male,white,17,7,237
+Gauteng,55+,male,None,17,12,237
+Limpopo,25-34,male,coloured,17,6,237
+Mpumalanga,18-24,female,black,18,9,243
+Gauteng,25-34,female,white,19,11,244
+Kwazulu Natal,25-34,female,indian_asian,19,8,244
+Kwazulu Natal,55+,male,black,19,4,244
+North West,45-54,male,black,20,7,247
+Mpumalanga,25-34,male,None,20,9,247
+Western Cape,45-54,male,black,20,9,247
+Western Cape,45-54,male,None,20,12,247
+Mpumalanga,35-44,male,None,20,10,247
+Eastern Cape,18-24,male,indian_asian,20,6,247
+Gauteng,35-44,female,white,20,14,247
+Kwazulu Natal,25-34,female,black,21,14,254
+Northern Cape,35-44,male,coloured,21,7,254
+Northern Cape,35-44,male,black,21,8,254
+Western Cape,45-54,male,white,21,11,254
+Eastern Cape,25-34,male,white,22,15,258
+Kwazulu Natal,35-44,male,None,22,7,258
+Eastern Cape,18-24,female,black,22,6,258
+Kwazulu Natal,35-44,male,white,22,12,258
+Eastern Cape,35-44,male,white,22,14,258
+Kwazulu Natal,25-34,male,coloured,23,10,263
+Kwazulu Natal,45-54,male,indian_asian,24,11,264
+Eastern Cape,18-24,male,white,24,13,264
+Kwazulu Natal,35-44,female,black,24,5,264
+Northern Cape,25-34,male,coloured,25,9,267
+Eastern Cape,35-44,male,coloured,26,18,268
+Mpumalanga,35-44,male,indian_asian,26,13,268
+Mpumalanga,35-44,male,white,26,16,268
+Western Cape,18-24,male,white,26,16,268
+Northern Cape,35-44,female,black,28,3,272
+Kwazulu Natal,18-24,male,None,28,7,272
+Kwazulu Natal,25-34,male,white,28,13,272
+North West,25-34,male,white,28,15,272
+Western Cape,25-34,female,coloured,28,10,272
+Gauteng,18-24,female,black,28,17,272
+Mpumalanga,25-34,female,black,29,15,278
+Eastern Cape,25-34,male,indian_asian,30,15,279
+Eastern Cape,18-24,male,coloured,30,9,279
+Gauteng,55+,male,black,31,12,281
+Western Cape,55+,male,coloured,32,13,282
+Gauteng,45-54,male,None,32,17,282
+Gauteng,55+,male,white,32,19,282
+Kwazulu Natal,18-24,male,indian_asian,33,21,285
+Gauteng,18-24,male,None,34,17,286
+Gauteng,45-54,male,indian_asian,35,16,287
+Kwazulu Natal,45-54,male,black,37,14,288
+Western Cape,35-44,female,coloured,37,13,288
+Mpumalanga,25-34,male,white,38,21,290
+Western Cape,18-24,male,None,38,13,290
+Western Cape,18-24,male,black,39,11,292
+Kwazulu Natal,18-24,male,black,40,16,293
+North West,18-24,male,black,42,14,294
+Mpumalanga,18-24,male,white,42,23,294
+Limpopo,18-24,male,indian_asian,46,18,296
+Free State,25-34,male,black,47,20,297
+Mpumalanga,25-34,male,indian_asian,47,24,297
+Gauteng,35-44,male,coloured,47,20,297
+Mpumalanga,45-54,male,black,48,18,300
+Gauteng,35-44,female,black,48,26,300
+Western Cape,35-44,male,white,49,27,302
+Eastern Cape,45-54,male,black,50,13,303
+Western Cape,25-34,male,white,51,29,304
+Free State,18-24,male,black,52,14,305
+Gauteng,18-24,male,coloured,54,19,306
+Northern Cape,25-34,male,black,54,14,306
+Limpopo,35-44,male,indian_asian,58,34,308
+North West,35-44,male,black,60,19,309
+Gauteng,25-34,male,coloured,62,30,310
+Eastern Cape,35-44,male,black,65,27,311
+Western Cape,25-34,male,None,65,32,311
+Eastern Cape,18-24,male,black,65,9,311
+Eastern Cape,25-34,male,coloured,65,24,311
+Western Cape,35-44,male,None,66,33,315
+Gauteng,35-44,male,None,66,35,315
+Gauteng,25-34,female,None,68,15,317
+Limpopo,35-44,male,black,75,26,318
+Gauteng,25-34,male,None,75,36,318
+Western Cape,18-24,male,coloured,77,32,320
+Gauteng,45-54,male,white,78,52,321
+Western Cape,35-44,male,black,79,32,322
+Eastern Cape,25-34,male,black,82,25,323
+Kwazulu Natal,35-44,male,indian_asian,84,37,324
+Gauteng,25-34,female,black,86,49,325
+Gauteng,18-24,male,indian_asian,87,35,326
+Western Cape,25-34,male,black,92,38,327
+Limpopo,18-24,male,black,93,33,328
+Mpumalanga,35-44,male,black,103,46,329
+Western Cape,45-54,male,coloured,112,44,330
+North West,25-34,male,black,112,40,330
+Kwazulu Natal,35-44,male,black,115,57,332
+Limpopo,25-34,male,black,126,48,333
+Kwazulu Natal,25-34,male,indian_asian,132,59,334
+Gauteng,18-24,male,white,133,54,335
+Gauteng,35-44,male,white,140,81,336
+Mpumalanga,18-24,male,black,154,46,337
+Gauteng,45-54,male,black,157,61,338
+Gauteng,35-44,male,indian_asian,185,76,339
+Kwazulu Natal,25-34,male,black,195,72,340
+Limpopo,25-34,male,indian_asian,195,89,340
+Gauteng,25-34,male,white,205,96,342
+Mpumalanga,25-34,male,black,224,85,343
+Gauteng,18-24,male,black,248,94,344
+None,18-24,None,None,259,174,345
+Gauteng,25-34,male,indian_asian,332,166,346
+Western Cape,35-44,male,coloured,347,121,347
+Western Cape,25-34,male,coloured,426,169,348
+Gauteng,35-44,male,black,459,189,349
+Gauteng,25-34,male,black,738,258,350
